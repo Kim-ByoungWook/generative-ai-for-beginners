@@ -1,10 +1,10 @@
-# Building a Search Applications 
+# 검색 어플리케이션 만들기
 
 [![Introduction to Generative AI and Large Language Models](./images/08-lesson-banner.png?WT.mc_id=academic-105485-koreyst)](TBD)
 
 > **Video Coming Soon**
 
-There's more to LLMs than chatbots and text generation. It's also possible to build search applications using Embeddings. Embeddings are numerical representations of data also known as vectors, and can be used for semantic search for data.
+LLM은 챗봇과 텍스트 생성에만 국한되지 않는다. 임베딩을 활용해 검색 애플리케이션을 만드는 것도 가능하다. 임베딩은 데이터를 수치적으로 표현한 벡터로, 데이터의 의미론적 검색에 활용될 수 있다.
 
 In this lesson, you are going to build a search application for our education startup. Our startup is a non-profit organization that provides free education to students in developing countries. Our startup has a large number of YouTube videos that students can use to learn about AI. Our startup wants to build a search application that allows students to search for a YouTube video by typing a question.
 
