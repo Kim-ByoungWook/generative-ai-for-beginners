@@ -10,7 +10,7 @@ In this lesson, you are going to build a search application for our education st
 
 For example, a student might type in 'What are Jupyter Notebooks?' or 'What is Azure ML' and the search application will return a list of YouTube videos that are relevant to the question, and better still, the search application will return a link to the place in the video where the answer to the question is located.
 
-## Introduction
+## 도입
 
 In this lesson, we will cover:
 
@@ -19,7 +19,7 @@ In this lesson, we will cover:
 - Creating a Text Embeddings Index.
 - Searching a Text Embeddings Index.
 
-## Learning Goals
+## 학습 목표
 
 After completing this lesson, you will be able to:
 
