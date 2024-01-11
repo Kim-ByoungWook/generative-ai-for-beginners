@@ -21,11 +21,11 @@ In this lesson, you are going to build a search application for our education st
 
 ## 학습 목표
 
-After completing this lesson, you will be able to:
+이 수업을 마치고 나면, 여러분은 다음과 같은 작업을 할 수 있게 된다:
 
-- Tell the difference between semantic and keyword search.
-- Explain what Text Embeddings are.
-- Create an application using Embeddings to search for data.
+- 의미론적 검색과 키워드 검색의 차이를 설명할 수 있다. 
+- 텍스트 임베딩이 무엇인지 설명할 수 있다. 
+- 임베딩을 사용하여 데이터를 검색하는 애플리케이션을 만들 수 있다.
 
 ## Why build a search application?
 
