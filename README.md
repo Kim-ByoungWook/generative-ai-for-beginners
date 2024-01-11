@@ -12,12 +12,12 @@ In this lesson, you are going to build a search application for our education st
 
 ## 도입
 
-In this lesson, we will cover:
+이 수업에서 다룰 내용은 다음과 같다:
 
-- Semantic vs Keyword search.
-- What are Text Embeddings.
-- Creating a Text Embeddings Index.
-- Searching a Text Embeddings Index.
+- 의미론적 검색과 키워드 검색의 차이.
+- 텍스트 임베딩이란 무엇인가.
+- 텍스트 임베딩 인덱스 생성하기.
+- 텍스트 임베딩 인덱스 검색하기.
 
 ## 학습 목표
 
