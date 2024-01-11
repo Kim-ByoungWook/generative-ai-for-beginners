@@ -8,7 +8,7 @@ LLM은 챗봇과 텍스트 생성에만 국한되지 않는다. 임베딩을 활
 
 In this lesson, you are going to build a search application for our education startup. Our startup is a non-profit organization that provides free education to students in developing countries. Our startup has a large number of YouTube videos that students can use to learn about AI. Our startup wants to build a search application that allows students to search for a YouTube video by typing a question.
 
-예를 들어, 학생이 '주피터 노트북이 무엇인가요?' 또는 'Azure ML이 무엇인가요?'와 같은 질문을 입력하면, 검색 애플리케이션은 해당 질문과 관련된 유튜브 동영상 목록을 반환합니다. 더 좋은 점은, 검색 애플리케이션이 질문의 답이 있는 동영상의 해당 부분으로 연결되는 링크를 제공한다는 것입니다.
+예를 들어, 학생이 '주피터 노트북이 무엇인가요?' 또는 'Azure ML이 무엇인가요?'와 같은 질문을 입력하면, 검색 애플리케이션은 해당 질문과 관련된 유튜브 동영상 목록을 반환한다. 더 좋은 점은, 검색 애플리케이션이 질문의 답이 있는 동영상의 해당 부분으로 연결되는 링크를 제공한다는 것이다.
 
 ## 도입
 
